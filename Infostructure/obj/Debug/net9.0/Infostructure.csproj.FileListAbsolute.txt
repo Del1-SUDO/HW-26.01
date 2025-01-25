@@ -1,0 +1,11 @@
+C:\Users\-\Desktop\Dictionary\Infostructure\bin\Debug\net9.0\Infostructure.deps.json
+C:\Users\-\Desktop\Dictionary\Infostructure\bin\Debug\net9.0\Infostructure.dll
+C:\Users\-\Desktop\Dictionary\Infostructure\bin\Debug\net9.0\Infostructure.pdb
+C:\Users\-\Desktop\Dictionary\Infostructure\obj\Debug\net9.0\Infostructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\Desktop\Dictionary\Infostructure\obj\Debug\net9.0\Infostructure.AssemblyInfoInputs.cache
+C:\Users\-\Desktop\Dictionary\Infostructure\obj\Debug\net9.0\Infostructure.AssemblyInfo.cs
+C:\Users\-\Desktop\Dictionary\Infostructure\obj\Debug\net9.0\Infostructure.csproj.CoreCompileInputs.cache
+C:\Users\-\Desktop\Dictionary\Infostructure\obj\Debug\net9.0\Infostructure.dll
+C:\Users\-\Desktop\Dictionary\Infostructure\obj\Debug\net9.0\refint\Infostructure.dll
+C:\Users\-\Desktop\Dictionary\Infostructure\obj\Debug\net9.0\Infostructure.pdb
+C:\Users\-\Desktop\Dictionary\Infostructure\obj\Debug\net9.0\ref\Infostructure.dll
